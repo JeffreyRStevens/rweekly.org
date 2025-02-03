@@ -58,6 +58,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+[{cocoon} 0.2.0](https://cran.r-project.org/package=cocoon): Extract, Format, and Print Statistical Output ( cran.r-project.org ) 
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
