@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Rlinguo — Why Did We Build It?](https://rtask.thinkr.fr/rlinguo-why-did-we-build-it/)
 
 ### R in the Real World
 
@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [mirai v2.0](https://shikokuchuo.net/posts/25-mirai-v2/) - easier distributed computing, mirai cancellation, tidyverse purrr integration.
 
 ### New Packages
 
@@ -44,6 +44,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{ggsurveillance} 0.1.1](https://cloud.r-project.org/package=ggsurveillance): Tools for Outbreak Investigation and Infectious Disease Surveillance, like Epicurves in 'ggplot2'
 
 
 **Bioconductor**
@@ -58,7 +59,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-[{cocoon} 0.2.0](https://cran.r-project.org/package=cocoon): Extract, Format, and Print Statistical Output ( cran.r-project.org ) 
++ [{cocoon} 0.2.0](https://cran.r-project.org/package=cocoon): Extract, Format, and Print Statistical Output ( cran.r-project.org ) 
++ [{happign} 0.3.2](https://cran.r-project.org/package=happign): R Interface to French Geospatiale data from 'IGN' Web Services - [diffify](https://diffify.com/R/happign)
 
 ### Videos and Podcasts
 
